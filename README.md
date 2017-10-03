@@ -1,4 +1,4 @@
-Bitcoin TipBot For Slack
+(do not use) Fork of Bitcoin TipBot For Slack
 ========================
 Easily transfer money between team members on your Slack channel.
 
